@@ -173,7 +173,7 @@
             this.Controls.Add(this.lbVitorias);
             this.Controls.Add(this.lbRodada);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Form10";
             this.ResumeLayout(false);
             this.PerformLayout();
 
